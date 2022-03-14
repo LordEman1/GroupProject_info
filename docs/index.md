@@ -1,5 +1,5 @@
 ---
-permalink: index
+Polyfusion
 ---
 
 # Sample site for group projects
